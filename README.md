@@ -1,4 +1,4 @@
-### Hi there 👋, Bikrom Roy
+### Hi there 👋,
 ### Java || Python || Development.
 
 I'm Bikrom Roy, and I'm studying CSE at Daffodil International University, Dhaka. I really enjoy the field to know different languages and frameworks like java, python.
