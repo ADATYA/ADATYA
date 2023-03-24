@@ -4,6 +4,8 @@
 
 I'm Bikrom Roy, and I'm studying CSE at Daffodil International University, Dhaka. I really enjoy the field to know different languages and frameworks like java, python.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ## Skills and Experiance :
 💻 Html | Css 
 🧑‍🧑🏻‍💻 C | Java | Python
