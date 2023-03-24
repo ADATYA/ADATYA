@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Bikrom Roy,and I'm study in CSE at Daffodil International University,Dhaka.I really enjoy in my field to know differrent language and frameworks like python.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADATYA)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ADATYA/ADATYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
