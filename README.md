@@ -1,4 +1,4 @@
-### Hi there 👋,
+### Hi there 👋, Bikrom Roy.
 ### Python || Java || Development.
 
 I'm Bikrom Roy, and I'm studying CSE at Daffodil International University, Dhaka. I really enjoy the field to know different languages and frameworks like java, python.
@@ -10,11 +10,11 @@ I'm Bikrom Roy, and I'm studying CSE at Daffodil International University, Dhaka
 
 ## Skills and Experiance :
 
-- Frontend           : Html | Css 
-- Scripting Language : C | Python | Java
-- Fream Work         : Numpy 
-- Database           : MySQL | SQLLite 
-- IDE                : VScode | IntelliJ | PyCharm 
+Frontend           : Html | Css 
+Scripting Language : C | Python | Java
+Fream Work         : Numpy 
+Database           : MySQL | SQLLite 
+IDE                : VScode | IntelliJ | PyCharm 
 
 
 
