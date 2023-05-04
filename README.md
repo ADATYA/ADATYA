@@ -3,10 +3,9 @@
 
 I'm Bikrom Roy, and I'm studying CSE at Daffodil International University, Dhaka. I really enjoy the field to know different languages and frameworks like java, python.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADATYA&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADATYA)](https://github.com/ADATYA/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA)](https://github.com/ADATYA/github-readme-stats)
 
 ## Skills and Experiance :
 
