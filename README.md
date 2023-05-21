@@ -46,7 +46,7 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <hr />
 
-##  Skills and Experiance :
+##  Skills and Experience :
 
 - Fream Work         : Numpy 
 - Database           : MySQL | SQLite 
