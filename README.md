@@ -1,15 +1,3 @@
-
-
-<!-- 
-## Skills and Experiance :
-
-- FrontEnd           : Html | Css 
-- Scripting Language : C | Python | Java
-- Library            : Numpy| Pandas | Scikit Learn 
-- Database           : MySQL | SQLLite 
-- IDE                : VScode | IntelliJ | PyCharm 
--Version Control     : Git | GitHub
-
 <h2>Hey, 🙋🏼‍♂️</h2>
 <p>I'm Bikrom Aditya Roy 😎</p>
 <p>I'm Bikrom Roy, and I'm studying CSE at Daffodil International University, Dhaka. I really enjoy the field to know different languages and frameworks like Python.
