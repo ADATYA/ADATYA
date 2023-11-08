@@ -3,12 +3,12 @@
 <!-- 
 ## Skills and Experiance :
 
-- Frontend           : Html | Css 
+- FrontEnd           : Html | Css 
 - Scripting Language : C | Python | Java
-- Fream Work         : Numpy 
+- Library            : Numpy| Pandas | Scikit Learn 
 - Database           : MySQL | SQLLite 
 - IDE                : VScode | IntelliJ | PyCharm 
- -->
+-Version Control     : Git | GitHub
 
 <h2>Hey, 🙋🏼‍♂️</h2>
 <p>I'm Bikrom Aditya Roy 😎</p>
@@ -48,9 +48,12 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 
 ##  Skills and Experience :
 
-- Fream Work         : Numpy 
-- Database           : MySQL | SQLite 
-- IDE                : VScode | PyCharm | IntelliJ
+- FrontEnd           : Html | Css 
+- Scripting Language : C | Python | Java
+- Library            : Numpy| Pandas | Scikit Learn 
+- Database           : MySQL | SQLLite 
+- IDE                : VScode | IntelliJ | PyCharm 
+- Version Control     : Git | GitHub
 
 <h2>Github Stats</h2>
 <!-- <p align="center" style="width:100% display:flex flex-direction:column align-items:center justify-content:center"> 
