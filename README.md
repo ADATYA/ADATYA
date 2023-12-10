@@ -43,14 +43,12 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 - IDE                : VScode | IntelliJ | PyCharm 
 - Version Control     : Git | GitHub
 
-<h2>Github Stats</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+##  Github Stats : 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA) &nbsp;
 
-<hr />
 
-### Reach out to me at-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/bikrom-roy-68884a226) &nbsp;
+## Reach out to me at :
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bikromroy/) &nbsp;
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](bikromroy0711@gmail.com)
 
 
