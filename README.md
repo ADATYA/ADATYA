@@ -1,11 +1,11 @@
-<h2>Hey, 🙋🏼‍♂️</h2>
+## Hey, 🙋🏼‍♂️
 <p>I'm Bikrom Aditya Roy 😎</p>
-<p>I'm Bikrom Roy, and I'm studying CSE at Daffodil International University, Dhaka. I really enjoy the field to know different languages and frameworks like Python.
+<p>I'm Bikrom Roy, studying CSE at Daffodil International University, Dhaka. I enjoy the field of different languages and frameworks like Python.
 I am dedicated to continuously learning and growing in my area, seeking new challenges and professional upliftment opportunities.
-I hearken to inquisitive attention animus and am consistent with my goal. 
-As a Class Representative, I should acquire soft skills (problem-solving, time management, teamwork, leadership, empathy, and creative thinking),  and solid skill (Presentation, Coding, and Certificated). 
-I love solving code in Python and developing many real-life projects. I am interested in ML(NLP), IoT, and Embedded systems. An active member in NLP& ML Lab, CPC.
-I will ever have new experiences, pay a visit to new people, and reach new wisdom.  I discover new thoughts and creative ideas to help others. An inventive mind gives help me ascend and construct my to-be vocation.
+I listen to inquisitive attention animus and am consistent with my goal. 
+As a Class Representative, I should acquire soft skills (problem-solving, time management, teamwork, leadership, empathy, and creative thinking),  and solid skills (Presentation, Coding, and Certificated). 
+I love solving code in Python and developing many real-life projects. I am interested in ML(NLP), IoT, and Embedded systems—an active member in NLP& ML Lab, CPC.
+I will ever have new experiences, pay a visit to new people, and reach new wisdom.  I discover new thoughts and creative ideas to help others. An inventive mind helped me ascend and construct my to-be vocation.
 </p>
 <p><b>I want One cup of coffee open VS Code and push it on Github.</b></p>
 
@@ -14,7 +14,7 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 ## Activities  :
 
 - 🔭 I’m currently working on Student. 
-- 🌱 I’m currently learning Python and it's frameworks. 
+- 🌱 I’m currently learning Python and its frameworks. 
 - 📫 How to reach me: bikromroy0711@gmail.com 
 - 😄 Pronouns: he/him 
 - 
