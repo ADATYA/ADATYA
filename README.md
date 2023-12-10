@@ -44,12 +44,7 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 - Version Control     : Git | GitHub
 
 <h2>Github Stats</h2>
-<!-- <p align="center" style="width:100% display:flex flex-direction:column align-items:center justify-content:center"> 
-   -->
-<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ADATYA&theme=dark)](https://git.io/streak-stats) -->
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA)](https://github.com/ADATYA/github-readme-stats) -->
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ADATYA&show_icons=true&locale=en&theme=tokyonight" alt="ADATYA" />
+![ADI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADATYA&show_icons=true)
  
 </p>
 
