@@ -1,6 +1,9 @@
 ## Hey, 🙋🏼‍♂️
 <p>I'm Bikrom Aditya Roy 😎</p>
-<p>I'm Bikrom Roy, studying CSE at Daffodil International University, Dhaka. I enjoy the field of different languages and frameworks like Python.
+
+<p> https://media.licdn.com/dms/image/D5616AQG19v3Ia1hT0g/profile-displaybackgroundimage-shrink_350_1400/0/1702080524637?e=1707955200&v=beta&t=uUb1ac19gkBr3s7reFNrJXxNdJrrstgV0w1bfuyosi0</p>
+
+<p>Studying CSE at Daffodil International University, Dhaka. I enjoy the field of different languages and frameworks like Python.
 I am dedicated to continuously learning and growing in my area, seeking new challenges and professional upliftment opportunities.
 I listen to inquisitive attention animus and am consistent with my goal. 
 As a Class Representative, I should acquire soft skills (problem-solving, time management, teamwork, leadership, empathy, and creative thinking),  and solid skills (Presentation, Coding, and Certificated). 
