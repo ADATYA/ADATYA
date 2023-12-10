@@ -1,7 +1,7 @@
 ## Hey, 🙋🏼‍♂️
 <p>I'm Bikrom Aditya Roy 😎</p>
 
-<p> https://media.licdn.com/dms/image/D5616AQG19v3Ia1hT0g/profile-displaybackgroundimage-shrink_350_1400/0/1702080524637?e=1707955200&v=beta&t=uUb1ac19gkBr3s7reFNrJXxNdJrrstgV0w1bfuyosi0</p>
+<b> https://media.licdn.com/dms/image/D5616AQG19v3Ia1hT0g/profile-displaybackgroundimage-shrink_350_1400/0/1702080524637?e=1707955200&v=beta&t=uUb1ac19gkBr3s7reFNrJXxNdJrrstgV0w1bfuyosi0 </b>
 
 <p>Studying CSE at Daffodil International University, Dhaka. I enjoy the field of different languages and frameworks like Python.
 I am dedicated to continuously learning and growing in my area, seeking new challenges and professional upliftment opportunities.
@@ -10,7 +10,7 @@ As a Class Representative, I should acquire soft skills (problem-solving, time m
 I love solving code in Python and developing many real-life projects. I am interested in ML(NLP), IoT, and Embedded systems—an active member in NLP& ML Lab, CPC.
 I will ever have new experiences, pay a visit to new people, and reach new wisdom.  I discover new thoughts and creative ideas to help others. An inventive mind helped me ascend and construct my to-be vocation.
 </p>
-<p><b>I want One cup of coffee open VS Code and push it on Github.</b></p>
+<p><b>I want One cup of tea open IDE and push it on Github.</b></p>
 
 <hr />
 
