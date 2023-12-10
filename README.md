@@ -8,7 +8,7 @@ As a Class Representative, I should acquire soft skills (problem-solving, time m
 I love solving code in Python and developing many real-life projects. I am interested in ML(NLP), IoT, and Embedded systems—an active member in NLP& ML Lab, CPC.
 I will ever have new experiences, pay a visit to new people, and reach new wisdom.  I discover new thoughts and creative ideas to help others. An inventive mind helped me ascend and construct my to-be vocation.
 </p>
-** <p><b>I want One cup of tea to open IDE and push it on GitHub. </b></p> 
+ <p><b>I want One cup of tea to open IDE and push it on GitHub. </b></p> 
 
 <hr />
 
@@ -21,7 +21,7 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 - 
 <p><b>I'm📝watching you when you visit 👀 my profile </b></p>
 
-** ![](https://komarev.com/ghpvc/?username=ADATYA&color=brightgreen) **
+## ![](https://komarev.com/ghpvc/?username=ADATYA&color=brightgreen) 
 
 <hr />
 
