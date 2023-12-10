@@ -8,7 +8,7 @@ As a Class Representative, I should acquire soft skills (problem-solving, time m
 I love solving code in Python and developing many real-life projects. I am interested in ML(NLP), IoT, and Embedded systems—an active member in NLP& ML Lab, CPC.
 I will ever have new experiences, pay a visit to new people, and reach new wisdom.  I discover new thoughts and creative ideas to help others. An inventive mind helped me ascend and construct my to-be vocation.
 </p>
-<p><b>I want One cup of tea to open IDE and push it on GitHub. </b></p>
+*** <p><b>I want One cup of tea to open IDE and push it on GitHub. </b></p> *** 
 
 <hr />
 
@@ -19,9 +19,9 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 - 📫 How to reach me: bikromroy0711@gmail.com 
 - 😄 Pronouns: he/him 
 - 
-<p><b>I'm📝watching you when you show 👀 my profile </b></p>
+<p><b>I'm📝watching you when you visit 👀 my profile </b></p>
 
-![](https://komarev.com/ghpvc/?username=ADATYA&color=brightgreen)
+** ![](https://komarev.com/ghpvc/?username=ADATYA&color=brightgreen) **
 
 <hr />
 
@@ -49,8 +49,8 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 
 
 ## Reach out to me at :
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bikromroy/) &nbsp;
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](bikromroy0711@gmail.com)
+*[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bikromroy/) &nbsp;
+*[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](bikromroy0711@gmail.com)
 
 
 
