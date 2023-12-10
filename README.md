@@ -8,7 +8,7 @@ As a Class Representative, I should acquire soft skills (problem-solving, time m
 I love solving code in Python and developing many real-life projects. I am interested in ML(NLP), IoT, and Embedded systems—an active member in NLP& ML Lab, CPC.
 I will ever have new experiences, pay a visit to new people, and reach new wisdom.  I discover new thoughts and creative ideas to help others. An inventive mind helped me ascend and construct my to-be vocation.
 </p>
-<p><b>I want One cup of tea open IDE and push it on Github.</b></p>
+<p><b>I want One cup of tea to open IDE and push it on GitHub. </b></p>
 
 <hr />
 
@@ -19,20 +19,20 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 - 📫 How to reach me: bikromroy0711@gmail.com 
 - 😄 Pronouns: he/him 
 - 
-<p><b>I count 📝when you watch 👀 my profile </b></p>
+<p><b>I'm📝watching you when you show 👀 my profile </b></p>
 
 ![](https://komarev.com/ghpvc/?username=ADATYA&color=brightgreen)
 
 <hr />
 
-### Languages I can write but  I can't speak 
+### Languages I can write but  can't speak..
 
 <br />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
+* ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <hr />
 
 ##  Skills and Experience :
@@ -41,7 +41,7 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 - Scripting Language : C | Python | Java
 - Library            : Numpy| Pandas | Scikit Learn 
 - Database           : MySQL | SQLLite 
-- IDE                : VScode | IntelliJ | PyCharm 
+- IDE                : VScode | IntelliJ | PyCharm | Colab | Jupiter Notebook
 - Version Control     : Git | GitHub
 
 ##  Github Stats : 
