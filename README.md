@@ -1,7 +1,7 @@
 ## Hey, 🙋🏼‍♂️
 <p>I'm Bikrom Aditya Roy 😎</p>
 
-<b> https://media.licdn.com/dms/image/D5616AQG19v3Ia1hT0g/profile-displaybackgroundimage-shrink_350_1400/0/1702080524637?e=1707955200&v=beta&t=uUb1ac19gkBr3s7reFNrJXxNdJrrstgV0w1bfuyosi0 </b>
+(https://media.licdn.com/dms/image/D5616AQG19v3Ia1hT0g/profile-displaybackgroundimage-shrink_350_1400/0/1702080524637?e=1707955200&v=beta&t=uUb1ac19gkBr3s7reFNrJXxNdJrrstgV0w1bfuyosi0)
 
 <p>Studying CSE at Daffodil International University, Dhaka. I enjoy the field of different languages and frameworks like Python.
 I am dedicated to continuously learning and growing in my area, seeking new challenges and professional upliftment opportunities.
