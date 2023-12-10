@@ -44,7 +44,7 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 - Version Control     : Git | GitHub
 
 <h2>Github Stats</h2>
- ![ADATYA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADATYA&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <hr />
