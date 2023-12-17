@@ -15,7 +15,7 @@ I will ever have new experiences, pay a visit to new people, and reach new wisdo
 ## Activities  :
 
 - 🔭 I’m currently working on Student. 
-- 🌱 I’m currently learning Python and its frameworks. 
+- 🌱 I’m currently learning FullStack Web Development. 
 - 📫 How to reach me: bikromroy0711@gmail.com 
 - 😄 Pronouns: he/him/his
 - 
