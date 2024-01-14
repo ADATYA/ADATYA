@@ -1,16 +1,16 @@
-## Hey, 🙋🏼‍♂️
+## Hey,There 🙋🏼‍♂️
 <p>I'm Bikrom Aditya Roy 😎</p>
 
-<p>Studying CSE at Daffodil International University, Dhaka. I enjoy the field of different languages and frameworks like Python.
-I am dedicated to continuously learning and growing in my area, seeking new challenges and professional upliftment opportunities.
-I listen to inquisitive attention animus and am consistent with my goal. 
-As a Class Representative, I should acquire soft skills (problem-solving, time management, teamwork, leadership, empathy, and creative thinking),  and solid skills (Presentation, Coding, and Certificated). 
-I love solving code in Python and developing many real-life projects. I am interested in ML(NLP), IoT, and Embedded systems—an active member in NLP& ML Lab, CPC.
-I will ever have new experiences, pay a visit to new people, and reach new wisdom.  I discover new thoughts and creative ideas to help others. An inventive mind helped me ascend and construct my to-be vocation.
-</p>
- <p><b>I want One cup of tea to open IDE and push it on GitHub. </b></p> 
+<p>I am studying at Daffodil International University in Dhaka to study computer science and engineering. I'm working in the field of multiple languages and frameworks like HTML5, CSS3, and Bootstrap 4, including JavaScript, React, Git, and GitHub.
+I'm committed to never stopping learning and developing in my field, always looking for fresh challenges and chances to advance my career.
+I pay heed to curious attention and animus and stick to my objective. 
+As a  learner, I track my Courses using AI tools like Notion, QuillBot, etc.
+I enjoy writing numerous practical applications and debugging code. Web development and machine learning (ML/NLP) all pique my attention. I participate actively in the CPC NLP and ML Lab.
 
-<hr />
+I should always encounter fresh situations, see fresh faces, and get fresh insights.  I come up with fresh concepts and imaginative ways to assist others. My ability to think creatively enabled me to advance and build my future career.
+</p>
+
+<hr>
 
 ## Activities  :
 
