@@ -19,7 +19,7 @@ I should always encounter fresh situations, see fresh faces, and get fresh insig
 - 📫 How to reach me: bikromroy0711@gmail.com 
 - 😄 Pronouns: he/him/his
 - 
-<p"><b>Traking📝your activities when you visit 👀 my Profile </b></p>
+<i><b>Traking📝your activities when you <q>Visit 👀 My Profile </q></b></i>
 
 ## ![](https://komarev.com/ghpvc/?username=ADATYA&color=blueviolet) 
 <br />
