@@ -1,9 +1,9 @@
 ## Hey,There 🙋🏼‍♂️
 <p>I'm Bikrom Aditya Roy 😎</p>
 
-<p>I am studying at Daffodil International University in Dhaka to study computer science and engineering. I'm working in the field of multiple languages and frameworks like HTML5, CSS3, and Bootstrap 4, including JavaScript, React, Git, and GitHub.
+<p>I am studying at Daffodil International University in Dhaka to study computer science and engineering. I'm working in the field of multiple languages and frameworks like HTML5, CSS3, and Bootstrap 4, including JavaScript, React, Git, and GitHub.<br>
 I'm committed to never stopping learning and developing in my field, always looking for fresh challenges and chances to advance my career.
-I pay heed to curious attention and animus and stick to my objective. 
+I pay heed to curious attention and animus and stick to my objective. <br>
 As a  learner, I track my Courses using AI tools like Notion, QuillBot, etc.
 I enjoy writing numerous practical applications and debugging code. Web development and machine learning (ML/NLP) all pique my attention. I participate actively in the CPC NLP and ML Lab.
 
