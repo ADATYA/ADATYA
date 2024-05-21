@@ -2,17 +2,15 @@
 ![image](https://github.com/ADATYA/ADATYA/assets/97549431/4fb7aac6-d5c2-4bff-bda1-3e9fa14024d9)
 
 ## Hey,There 🙋🏼‍♂️
-<p>I'm Bikrom Aditya Roy 😎</p>
+<p> <b> I'm Bikrom Adatya Roy 😎</p></b>
 
-<p>I am studying at Daffodil International University in Dhaka to study computer science and engineering. I'm working in the field of multiple languages and frameworks like HTML5, CSS3, and Bootstrap 4, including JavaScript, React, Git, and GitHub.<br>
-I'm committed to never stopping learning and developing in my field, always looking for fresh challenges and chances to advance my career.
-I pay heed to curious attention and animus and stick to my objective. <br>
-As a  learner, I track my Courses using AI tools like Notion, QuillBot, etc.
-I enjoy writing numerous practical applications and debugging code. Web development and machine learning (ML/NLP) all pique my attention. I participate actively in the CPC NLP and ML Lab.
-
-I should always encounter fresh situations, see fresh faces, and get fresh insights.  I come up with fresh concepts and imaginative ways to assist others. My ability to think creatively enabled me to advance and build my future career.
-</p>
-
+<p>I am a computer science and engineering student at Daffodil International University in Dhaka. I work with a variety of languages and frameworks, such as JavaScript, HTML5, CSS3, and Bootstrap 4, for web development.<br>
+I ignore curiosity and ill will in favour of sticking to my goal. In the future, I'm highly interested in research papers for publishing Q1/journal papers.
+For research purposes, I used some languages like Python and its frameworks: Numpy, Pnadas, Seaborn, Matplotlib, and the ML algorithm. RendomForeset, Logistic Regression, KNN, Kmeans Clustering, SVM, Naive Bayes, Decision Tree, and so on.
+As a student, I use AI technologies like QuillBot, Notion, Gemini, ChatGPT, and others to keep track of my courses.<br>
+I like to write a lot of useful applications and troubleshoot code. I'm interested in artificial intelligence (ML/NLP). I take a leading role in the NLP and ML labs at DIU and am also a part of the Health Information and Research Lab (HiRl).<br>
+I'm determined to keep learning and growing in my industry, always seeking out fresh possibilities and difficulties to further my professional development.
+I might always dive into new circumstances and meet new people to gain knowledge that he/she learns from his or her career, and AI can't solve this problem.<p>
 
 
 # Activities  :
