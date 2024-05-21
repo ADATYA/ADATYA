@@ -17,10 +17,11 @@ I might always dive into new circumstances and meet new people to gain knowledge
 
 - 🔭 I’m currently working on Student. 
 - 🌱 I’m currently learning FullStack Web Development. 
-- 📫 How to reach me: bikromroy0711@gmail.com 
+- 📫 How to reach me: bikromroy0711@gmail.com or bikrom15-4561@diu.edu.
 - 😄 Pronouns: he/him/his
-- 
-<i><b>Traking📝your activities when you <q>Visit 👀 My Profile </q></b></i>
+
+<i>
+<b>Traking📝your activities when you <q>Visit 👀 My Profile </q></b></i>
 
 ## ![](https://komarev.com/ghpvc/?username=ADATYA&color=blueviolet) 
 <br />
@@ -71,7 +72,6 @@ I might always dive into new circumstances and meet new people to gain knowledge
 ## Reach out to me at Social Media :
    * [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bikromroy/) &nbsp;
    * [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](bikromroy0711@gmail.com)
-   * ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
    * ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
    * ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 
