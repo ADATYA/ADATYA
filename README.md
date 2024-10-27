@@ -1,7 +1,6 @@
+![image](https://github.com/user-attachments/assets/f2a18b53-c9d0-448c-8e8d-aff810e9ca3c)
 
-![image](https://github.com/ADATYA/ADATYA/assets/97549431/4fb7aac6-d5c2-4bff-bda1-3e9fa14024d9)
-
-## Hey,There 🙋🏼‍♂️
+# Hey,There 🙋🏼‍♂️
 <p> <b> I'm Bikrom Adatya Roy 😎</p></b>
 
 <p>I am a computer science and engineering student at Daffodil International University in Dhaka. I work with a variety of languages and frameworks, such as JavaScript, HTML5, CSS3, and Bootstrap 4, for web development.<br>
@@ -13,7 +12,7 @@ I'm determined to keep learning and growing in my industry, always seeking out f
 I might always dive into new circumstances and meet new people to gain knowledge that he/she learns from his or her career, and AI can't solve this problem.<p>
 
 
-# Activities  :
+## Activities  :
 
 - 🔭 I’m currently working on Student. 
 - 🌱 I’m currently learning FullStack Web Development. 
@@ -63,14 +62,14 @@ I might always dive into new circumstances and meet new people to gain knowledge
    * ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-##  Github Stats : 
+## Github Stats : 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
    ![Bikrom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADATYA&show_icons=true&theme=transparent)
 
 
 ## Reach out to me at Social Media :
-   * [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bikromroy/) &nbsp;
+   * [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>]("https://www.linkedin.com/in/bikromroy/") &nbsp;
    * [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](bikromroy0711@gmail.com)
    * ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
    * ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
