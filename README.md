@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/f2a18b53-c9d0-448c-8e8d-aff810e9ca3c)
+![image](https://github.com/user-attachments/assets/ed98fa14-a39c-4f1f-8f04-e713b5b6ec86)
+
 
 # Hey,There 🙋🏼‍♂️
 <p> <b> I'm Bikrom Adatya Roy 😎</p></b>
