@@ -11,7 +11,7 @@
 
 ---
 
-### ✨ About Me
+### ✨ 🌱 What I'm Doing Now
 
 - 🎯 I’m focused on becoming a Data Analyst with expertise in **Excel, Power BI, SQL, and Python**.
 - 📊 I love building **interactive dashboards** and uncovering stories hidden in data.
