@@ -21,7 +21,7 @@
 - 🌱 Always learning and growing — open to collaboration and exciting data challenges!
 
 ---
-## 🧠 Profile Tracker
+### 🧠 Profile Tracker
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=You're+now+visiting+my+profile+👀;I+appreciate+your+visit!+💜" alt="Typing SVG" />
@@ -33,7 +33,7 @@
 
 ---
 
-## ⌨️ Typing Speed
+### ⌨️ Typing Speed
 
 ![Typing Badge](https://img.shields.io/badge/WPM-50+-green?style=for-the-badge&logo=typingclub&logoColor=white)
 
