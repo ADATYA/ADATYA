@@ -21,14 +21,29 @@
 - 🌱 Always learning and growing — open to collaboration and exciting data challenges!
 
 ---
+## 🧠 Profile Tracker
 
-<i><b>📝 Tracking your activity when you <q>Visit 👀 My Profile</q></b></i><br>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ADATYA&color=blueviolet" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=You're+now+visiting+my+profile+👀;I+appreciate+your+visit!+💜" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ADATYA&style=for-the-badge&color=blueviolet" alt="Profile Views Badge"/>
 </p>
 
 ---
 
+## ⌨️ Typing Speed
+
+![Typing Badge](https://img.shields.io/badge/WPM-50+-green?style=for-the-badge&logo=typingclub&logoColor=white)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Typing+Speed:+50+WPM+%F0%9F%91%BB;Fast,+Accurate+%26+Consistent" alt="Typing Speed">
+  </a>
+</p>
+
+---
 ### 🔧 Skills & Tools
 
 #### 📊 Data Analysis Tools:
