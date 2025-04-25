@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me
+### ✨ About Me
 
 - 🎯 I’m focused on becoming a Data Analyst with expertise in **Excel, Power BI, SQL, and Python**.
 - 📊 I love building **interactive dashboards** and uncovering stories hidden in data.
@@ -19,6 +19,13 @@
 - 🧠 Tools I use for research: `NumPy`, `Pandas`, `Seaborn`, `Matplotlib` & ML algorithms such as `RandomForest`, `Logistic Regression`, `KNN`, `SVM`, and more.
 - 🤖 I also use AI tools like **Notion, Gemini, QuillBot, ChatGPT** to enhance productivity and keep track of studies.
 - 🌱 Always learning and growing — open to collaboration and exciting data challenges!
+
+---
+
+<i><b>📝 Tracking your activity when you <q>Visit 👀 My Profile</q></b></i><br>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ADATYA&color=blueviolet" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -30,11 +37,21 @@
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-#### 🧪 Python Libraries:
+
+#### 🧪 📚 ML / Data Science Libraries:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%23007FFF.svg?style=for-the-badge&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+
+#### 🧠 Developer & Research Platforms:
+![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle)
+![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate)
+![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow)
+
 
 #### 💻 IDEs & Environments:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -45,14 +62,23 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-<i><b>📝 Tracking your activity when you <q>Visit 👀 My Profile</q></b></i><br>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ADATYA&color=blueviolet" alt="Profile Views"/>
-</p>
+#### 💾 Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+### 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA&layout=donut)
+![Bikrom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADATYA&show_icons=true&theme=transparent)
+
+---
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikromroy/)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikromroy0711@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)
 
 
 
