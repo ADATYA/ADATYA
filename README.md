@@ -1,8 +1,9 @@
-![image](https://github.com/user-attachments/assets/ed98fa14-a39c-4f1f-8f04-e713b5b6ec86)
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/03e82f7a-3d98-42dc-a975-6e21391f317c" />
+
 
 
 <h1 align="center">👋 Hi, I'm Bikrom Adatya Roy</h1>
-<h3 align="center">A passionate Data Analyst & Problem Solver</h3>
+<h3 align="center">A passionate Data Science & Analyst, graduate in CSE from Daffodil International University, Dhaka </h3>
 
 <p align="center">
 🔍 I love extracting insights from data, building dashboards, and solving real-world problems using analytical tools.<br />
@@ -19,6 +20,7 @@
 - 🧠 Tools I use for research: `NumPy`, `Pandas`, `Seaborn`, `Matplotlib` & ML algorithms such as `RandomForest`, `Logistic Regression`, `KNN`, `SVM`, and more.
 - 🤖 I also use AI tools like **Notion, Gemini, QuillBot, ChatGPT** to enhance productivity and keep track of studies.
 - 🌱 Always learning and growing — open to collaboration and exciting data challenges!
+-  🕸️My personal website link : 
 
 ---
 ### 🧠 Profile Tracker
