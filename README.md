@@ -20,7 +20,7 @@
 - 🧠 Tools I use for research: `NumPy`, `Pandas`, `Seaborn`, `Matplotlib` & ML algorithms such as `RandomForest`, `Logistic Regression`, `KNN`, `SVM`, and more.
 - 🤖 I also use AI tools like **Notion, Gemini, QuillBot, ChatGPT** to enhance productivity and keep track of studies.
 - 🌱 Always learning and growing — open to collaboration and exciting data challenges!
--  🕸️My personal website link : 
+-  🕸️My personal website link : https://adatya.github.io/Adi-s-Portfolio/#
 
 ---
 ### 🧠 Profile Tracker
