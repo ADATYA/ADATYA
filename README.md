@@ -86,8 +86,11 @@
 ---
 ### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA&layout=donut)
-![Bikrom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADATYA&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADATYA&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA&layout=donut&theme=transparent&hide_border=true&cache_seconds=1800" height="180"/>
+</p>
+
 
 ---
 ### 📬 Let's Connect
