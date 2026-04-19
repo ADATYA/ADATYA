@@ -62,5 +62,5 @@ I am a passionate **Data Analyst & Researcher** with a background in Computer Sc
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Bikrom Adatya Roy. Updated in 2026.</sub>
+  <sub>Bikrom Adatya Roy. Updated in 2026.</sub>
 </div>
