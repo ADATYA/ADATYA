@@ -16,7 +16,7 @@
 
 ### 📖 About Me
 
-I am a passionate **Full Stack Data Science & Researcher & Project Biilding** with a background in Computer Science from Daffodil International University. I specialize in bridging the gap between complex data and actionable business insights. Currently, I am focused on building automation processes and scaling my company, **softclass+**.
+I am a passionate **Full Stack Data Science & Researcher & Project Building** with a background in Computer Science from Daffodil International University. I specialize in bridging the gap between complex data and actionable business insights. Currently, I am focused on building automation processes and scaling my career for MSc. in **Data Science/Machine Learning and Artificial Intelligence**.
 
 * 🎯 **Current Goal:** Mastering Power BI, SQL, and Advanced Python for Data Analytics.
 * 🔬 **Research:** Working on Q1/Scopus-indexed publications focused on ML & NLP.
