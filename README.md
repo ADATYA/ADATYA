@@ -4,7 +4,7 @@
   <h3>🚀 Data Science Enthusiast | CSE Graduate | Automation Architect</h3>
 
   <p>
-    <a href="https://adatya.github.io/Adi-s-Portfolio/#"><b>🌐 Portfolio Website</b></a> • 
+    <!-- <a href="https://adatya.github.io/Adi-s-Portfolio/#"><b>🌐 Portfolio Website</b></a> •  -->
     <a href="https://www.linkedin.com/in/bikromroy/"><b>💼 LinkedIn</b></a> • 
     <a href="mailto:bikromroy0711@gmail.com"><b>📧 Email</b></a>
   </p>
