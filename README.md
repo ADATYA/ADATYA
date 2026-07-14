@@ -9,7 +9,7 @@
     <a href="mailto:bikromroy0711@gmail.com"><b>📧 Email</b></a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Extracting+Insights+from+Data+📊;Building+SaaS+Automation+🤖;ML+and+NLP+Researcher+🧠;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Web Engineering Student in Technecal Universiy of Chemnitz,Germany+📊;Full Stack Web Engineer+🤖;Interest in Cloud Computing🧠;See myself as a Devops Engineer in logn run+☕" alt="Typing SVG" />
 </div>
 
 ---
