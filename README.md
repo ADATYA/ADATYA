@@ -1,66 +1,198 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=250&section=header&text=Bikrom%20Adatya%20Roy&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h3>🚀 Data Science Enthusiast | CSE Graduate | Automation Architect</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Bikrom%20Adatya%20Roy&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <p>
-    <a href="https://adatya.github.io/Adi-s-Portfolio/#"><b>🌐 Portfolio Website</b></a> • 
-    <a href="https://www.linkedin.com/in/bikromroy/"><b>💼 LinkedIn</b></a> • 
-    <a href="mailto:bikromroy0711@gmail.com"><b>📧 Email</b></a>
-  </p>
+# 👋 Hi, I'm Bikrom Adatya Roy
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Web Engineering Student in Technecal Universiy of Chemnitz,Germany+📊;Full Stack Web Engineer+🤖;Interest in Cloud Computing🧠;See myself as a Devops Engineer in logn run+☕" alt="Typing SVG" />
+## 🚀 M.Sc. Web Engineering Student @ Chemnitz University of Technology, Germany 🇩🇪
+#### 💻 Full Stack Web Developer • ☁️ Cloud Computing Enthusiast • 🚀 Future DevOps Engineer
+
+<p>
+  <a href="https://www.linkedin.com/in/bikromroy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:bikromroy0711@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Bikrom+Adatya+Roy;M.Sc.+Web+Engineering+Student+🇩🇪;Chemnitz+University+of+Technology;Full+Stack+Web+Developer+💻;Cloud+Computing+Enthusiast+☁️;Learning+Docker,+Kubernetes+%26+AWS;Future+DevOps+Engineer+🚀;Open+to+Internship+Opportunities" alt="Typing SVG"/>
+
 </div>
 
 ---
 
-### 📖 About Me
+## 👨‍💻 About Me
 
-I am a passionate **Full Stack Data Science & Researcher & Project Building** with a background in Computer Science from Daffodil International University. I specialize in bridging the gap between complex data and actionable business insights. Currently, I am focused on building automation processes and scaling my career for MSc. in **Data Science/Machine Learning and Artificial Intelligence**.
+I am currently pursuing an **M.Sc. in Web Engineering** at **Chemnitz University of Technology, Germany**, with a strong academic foundation in **Computer Science** from **Daffodil International University**.
 
-* 🎯 **Current Goal:** Mastering Power BI, SQL, and Advanced Python for Data Analytics.
-* 🔬 **Research:** Working on Q1/Scopus-indexed publications focused on ML & NLP.
-* 🛠️ **Entrepreneurship:** Building SaaS tools to help small businesses automate workflows.
-* ⚡ **Fun Fact:** I type at 50+ WPM and believe every dataset has a hidden story to tell.
+I enjoy designing and developing **modern, scalable, and user-friendly web applications** using contemporary web technologies. My interests span **Full Stack Development, Cloud Computing, Software Engineering, System Design, and DevOps**.
 
----
+Currently, I am expanding my knowledge of modern web architectures, cloud-native development, containerization, CI/CD pipelines, and scalable software systems to prepare for **Full Stack**, **Cloud**, and **DevOps Engineering** roles.
 
-### 🛠️ Technical Ecosystem
-
-| **Category** | **Tools & Technologies** |
-| :--- | :--- |
-| **Data Analysis** | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **ML / Science** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) ![Scikit](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Visualization** | ![Seaborn](https://img.shields.io/badge/-Seaborn-444444?style=flat-square) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **DevOps/Tools** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+I believe the best way to learn is by building real-world applications, contributing to open-source projects, and continuously improving my engineering skills.
 
 ---
 
-### 📊 GitHub Activity
+## 🚀 Current Focus
+
+- 🎯 Mastering Full Stack Web Development
+- 🌐 Building scalable web applications using the MERN Stack
+- ☁️ Learning AWS Cloud Fundamentals
+- 🐳 Learning Docker & Kubernetes
+- ⚙️ Exploring CI/CD & DevOps Practices
+- 📚 Strengthening Software Engineering & System Design
+- 🇩🇪 Preparing for Web Engineering internships in Germany
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion" />
+</p>
+
+---
+
+## 📚 Learning Roadmap
+
+| Status | Technology |
+|--------|------------|
+| ✅ | HTML5 |
+| ✅ | CSS3 |
+| ✅ | JavaScript (ES6+) |
+| ✅ | Git & GitHub |
+| ✅ | React |
+| 🟡 | TypeScript |
+| 🟡 | Next.js |
+| 🟡 | Node.js |
+| 🟡 | Express.js |
+| 🟡 | MongoDB |
+| 🟡 | REST APIs |
+| 🔜 | Docker |
+| 🔜 | Kubernetes |
+| 🔜 | AWS |
+| 🔜 | CI/CD |
+| 🔜 | Microservices |
+| 🔜 | Terraform |
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADATYA&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADATYA&layout=donut&theme=tokyonight&hide_border=false" height="180em" />
-</div>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=ADATYA&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADATYA&theme=tokyonight&hide_border=false" width="100%" />
 </div>
 
 ---
 
-### 📈 Profile Insights
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADATYA&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bikromroy/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:bikromroy0711@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@bikromroy0711">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.notion.so/">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+
+<a href="https://wa.me/880XXXXXXXXXX">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://www.reddit.com/user/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@Adi-37s2b">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://open.spotify.com/">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👀 Profile Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ADATYA&label=PROFILE+VIEWS&style=for-the-badge&color=00FF9C" alt="Views" />
-  <img src="https://img.shields.io/badge/WPM-50+-blue?style=for-the-badge&logo=typingclub&logoColor=white" alt="Typing Speed" />
+
+<img src="https://komarev.com/ghpvc/?username=ADATYA&style=for-the-badge&color=7B2CBF&label=PROFILE+VIEWS" />
+
+<img src="https://img.shields.io/badge/⌨️-65%2B%20WPM-0EA5E9?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🇬🇧-IELTS%20B2-10B981?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🚗-Driving%20Licence-F59E0B?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🏋️-Gym%20Enthusiast-EC4899?style=for-the-badge" />
+
 </p>
 
 ---
 
 <div align="center">
-  <sub>Bikrom Adatya Roy. Updated in 2026.</sub>
+
+### 💡 *"Building scalable web applications one commit at a time."*
+
+⭐ If you like my work, feel free to star my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+
 </div>
