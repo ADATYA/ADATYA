@@ -62,6 +62,8 @@ Currently, I am expanding my knowledge of modern web architectures, cloud-native
 
 I believe the best way to learn is by building real-world applications, contributing to open-source projects, and continuously improving my engineering skills.
 
+<img width="1983" height="793" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/14b036ab-e81c-44d1-a07c-804822021b7b" />
+
 ---
 
 ## 🚀 Current Focus
