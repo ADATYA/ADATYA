@@ -2,11 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Bikrom%20Adatya%20Roy&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-# 👋 Hi, I'm Bikrom Adatya Roy
+<h1 align="center">
+  Hello Everyone 👋 I'm <strong><code>Bikrom Adatya Roy</code></strong>
+</h1>
 
-## 🚀 M.Sc. Web Engineering Student @ Chemnitz University of Technology, Germany 🇩🇪
-#### 💻 Full Stack Web Developer • ☁️ Cloud Computing Enthusiast • 🚀 Future DevOps Engineer
+<h3 align="center">
+  <mark>M.Sc. Web Engineering Student <em>🇩🇪</em> </mark>
+</h3>
 
+<h3 align="center">
+  <mark><em>Chemnitz University of Technology, Germany</em></mark>
+</h3>
+
+<p align="center">
+  <strong>💻 Full Stack Web Developer</strong> •
+  <strong>☁️ Cloud Computing Enthusiast</strong> •
+  <strong>🚀 Aspiring DevOps Engineer</strong>
+</p>
 <p>
   <a href="https://www.linkedin.com/in/bikromroy/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,15 +27,32 @@
   <a href="mailto:bikromroy0711@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="mailto:adatyaroy37@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/><br>
+    <p><i><b>Alternative Way to Reaching Me</i></b></p>
+  </a>
+  <a href="tel:+88017*******">
+  <img src="https://img.shields.io/badge/Phone-%2B880%201935952772-25D366?style=for-the-badge&logo=phonepe&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Bikrom+Adatya+Roy;M.Sc.+Web+Engineering+Student+🇩🇪;Chemnitz+University+of+Technology;Full+Stack+Web+Developer+💻;Cloud+Computing+Enthusiast+☁️;Learning+Docker,+Kubernetes+%26+AWS;Future+DevOps+Engineer+🚀;Open+to+Internship+Opportunities" alt="Typing SVG"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=DC2626&center=true&vCenter=true&width=900&lines=Hi+Folks+👋,+I'm+Bikrom+Adatya+Roy;M.Sc.+Web+Engineering+Student+🇩🇪;Chemnitz+University+of+Technology;Full+Stack+Web+Developer+💻;Cloud+Computing+Enthusiast+☁️;Learning+Docker,+Kubernetes+%26+AWS;Future+DevOps+Engineer+🚀;Open+to+Internship+Opportunities" alt="Typing SVG"/>
+
+<h3><em>"Explore My Profile For More"</em></h3>
+<a href="https://github.com/ADATYA/Resume/blob/main/Bikrom_Adatya_Roy_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📑%20CV-View%20CV-059669?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ADATYA/Resume/raw/main/Bikrom_Adatya_Roy_Resume.pdf">
+  <img src="https://img.shields.io/badge/⬇️%20Download-Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Myself
 
 I am currently pursuing an **M.Sc. in Web Engineering** at **Chemnitz University of Technology, Germany**, with a strong academic foundation in **Computer Science** from **Daffodil International University**.
 
@@ -102,6 +131,34 @@ I believe the best way to learn is by building real-world applications, contribu
 | 🔜 | CI/CD |
 | 🔜 | Microservices |
 | 🔜 | Terraform |
+
+---
+## 🚀 Project Features Collection Card
+
+🛒 E-Commerce Platform
+📝 Description
+🛠 Tech Stack
+⭐ GitHub
+🌍 Live Demo <a href="https://github.com/ADATYA/Resume/raw/main/Bikrom_Adatya_Roy_Resume.pdf">
+
+💬 Chat Application
+📝 Description
+🛠 Tech Stack
+⭐ GitHub
+🌍 Live Demo
+
+📋 Task Manager
+📝 Description
+🛠 Tech Stack
+⭐ GitHub
+🌍 Live Demo
+
+🎓 LMS
+📝 Description
+🛠 Tech Stack
+⭐ GitHub
+🌍 Live Demo
+
 
 ---
 
@@ -193,6 +250,6 @@ I believe the best way to learn is by building real-world applications, contribu
 
 ⭐ If you like my work, feel free to star my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=footer"/>
 
 </div>
