@@ -139,7 +139,8 @@ I believe the best way to learn is by building real-world applications, contribu
 📝 Description
 🛠 Tech Stack
 ⭐ GitHub
-🌍 Live Demo <a href="https://github.com/ADATYA/Resume/raw/main/Bikrom_Adatya_Roy_Resume.pdf">
+🌍 Live Demo 
+
 
 💬 Chat Application
 📝 Description
