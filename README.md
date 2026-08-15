@@ -112,28 +112,7 @@ I believe the best way to learn is by building real-world applications, contribu
 
 ---
 
-## 🚀 Engineering Learning Roadmap
 
-| 🚦 Status | 💻 Technology | 🎯 Priority | 📅 Timeline | 📚 Official Docs | 📝 Notes |
-|-----------|---------------|------------|------------|-----------------|----------|
-| ✅ Completed | HTML5 | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/HTML | Semantic HTML & Accessibility |
-| ✅ Completed | CSS3 | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/CSS | Flexbox, Grid, Responsive Design |
-| ✅ Completed | JavaScript (ES6+) | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/JavaScript | Modern JavaScript |
-| ✅ Completed | Git & GitHub | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://git-scm.com/doc | Version Control |
-| 🟡 Learning | React | ⭐⭐⭐⭐⭐ | Current | 🌐 https://react.dev | Components, Hooks |
-| 🟡 Learning | TypeScript | ⭐⭐⭐⭐ | Current | 🌐 https://www.typescriptlang.org/docs | Type Safety |
-| 🟡 Learning | Next.js | ⭐⭐⭐⭐⭐ | Current | 🌐 https://nextjs.org/docs | SSR & App Router |
-| 🟡 Learning | Node.js | ⭐⭐⭐⭐⭐ | Current | 🌐 https://nodejs.org/docs | Backend Development |
-| 🟡 Learning | Express.js | ⭐⭐⭐⭐ | Current | 🌐 https://expressjs.com | REST API |
-| 🟡 Learning | MongoDB | ⭐⭐⭐⭐ | Current | 🌐 https://www.mongodb.com/docs | NoSQL Database |
-| 🟡 Learning | REST APIs | ⭐⭐⭐⭐⭐ | Current | 🌐 https://developer.mozilla.org/docs/Web/API/Fetch_API | API Design |
-| 🔜 Planned | Docker | ⭐⭐⭐⭐⭐ | Q3 2026 | 🌐 https://docs.docker.com | Containerization |
-| 🔜 Planned | Kubernetes | ⭐⭐⭐⭐ | Q4 2026 | 🌐 https://kubernetes.io/docs | Orchestration |
-| 🔜 Planned | AWS | ⭐⭐⭐⭐⭐ | Q4 2026 | 🌐 https://docs.aws.amazon.com | Cloud Computing |
-| 🔜 Planned | CI/CD | ⭐⭐⭐⭐ | Q4 2026 | 🌐 https://docs.github.com/actions | GitHub Actions |
-| 🔜 Planned | Microservices | ⭐⭐⭐⭐ | 2027 | 🌐 https://microservices.io | System Design |
-| 🔜 Planned | Terraform | ⭐⭐⭐ | 2027 | 🌐 https://developer.hashicorp.com/terraform/docs | Infrastructure as Code |
----
 ## 🚀 Project Features Collection Card
 
 🛒 E-Commerce Platform
@@ -161,6 +140,16 @@ I believe the best way to learn is by building real-world applications, contribu
 ⭐ GitHub
 🌍 Live Demo
 
+
+---
+
+### 🛠️ Languages I Use Most
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -429,5 +418,30 @@ Industrial Projects • Professional Experience
 ⭐ If you like my work, feel free to star my repositories!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=footer"/>
+
+---
+
+## 🚀 Engineering Learning Roadmap
+
+| 🚦 Status | 💻 Technology | 🎯 Priority | 📅 Timeline | 📚 Official Docs | 📝 Notes |
+|-----------|---------------|------------|------------|-----------------|----------|
+| ✅ Completed | HTML5 | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/HTML | Semantic HTML & Accessibility |
+| ✅ Completed | CSS3 | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/CSS | Flexbox, Grid, Responsive Design |
+| ✅ Completed | JavaScript (ES6+) | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/JavaScript | Modern JavaScript |
+| ✅ Completed | Git & GitHub | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://git-scm.com/doc | Version Control |
+| 🟡 Learning | React | ⭐⭐⭐⭐⭐ | Current | 🌐 https://react.dev | Components, Hooks |
+| 🟡 Learning | TypeScript | ⭐⭐⭐⭐ | Current | 🌐 https://www.typescriptlang.org/docs | Type Safety |
+| 🟡 Learning | Next.js | ⭐⭐⭐⭐⭐ | Current | 🌐 https://nextjs.org/docs | SSR & App Router |
+| 🟡 Learning | Node.js | ⭐⭐⭐⭐⭐ | Current | 🌐 https://nodejs.org/docs | Backend Development |
+| 🟡 Learning | Express.js | ⭐⭐⭐⭐ | Current | 🌐 https://expressjs.com | REST API |
+| 🟡 Learning | MongoDB | ⭐⭐⭐⭐ | Current | 🌐 https://www.mongodb.com/docs | NoSQL Database |
+| 🟡 Learning | REST APIs | ⭐⭐⭐⭐⭐ | Current | 🌐 https://developer.mozilla.org/docs/Web/API/Fetch_API | API Design |
+| 🔜 Planned | Docker | ⭐⭐⭐⭐⭐ | Q3 2026 | 🌐 https://docs.docker.com | Containerization |
+| 🔜 Planned | Kubernetes | ⭐⭐⭐⭐ | Q4 2026 | 🌐 https://kubernetes.io/docs | Orchestration |
+| 🔜 Planned | AWS | ⭐⭐⭐⭐⭐ | Q4 2026 | 🌐 https://docs.aws.amazon.com | Cloud Computing |
+| 🔜 Planned | CI/CD | ⭐⭐⭐⭐ | Q4 2026 | 🌐 https://docs.github.com/actions | GitHub Actions |
+| 🔜 Planned | Microservices | ⭐⭐⭐⭐ | 2027 | 🌐 https://microservices.io | System Design |
+| 🔜 Planned | Terraform | ⭐⭐⭐ | 2027 | 🌐 https://developer.hashicorp.com/terraform/docs | Infrastructure as Code |
+---
 
 </div>
