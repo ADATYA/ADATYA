@@ -70,9 +70,9 @@ I believe the best way to learn is by building real-world applications, contribu
 
 - 🎯 Mastering Full Stack Web Development
 - 🌐 Building scalable web applications using the MERN Stack
-- ☁️ Learning AWS Cloud Fundamentals
-- 🐳 Learning Docker & Kubernetes
-- ⚙️ Exploring CI/CD & DevOps Practices
+- ☁️ Learning FrontEnd Fundamentals
+- 🐳 Learning Java Script & Type Scripts
+- ⚙️ Exploring TypeScript(NOTE + CODE + Practices) Everydays.
 - 📚 Strengthening Software Engineering & System Design
 - 🇩🇪 Preparing for Web Engineering internships in Germany
 
