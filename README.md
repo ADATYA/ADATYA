@@ -48,6 +48,8 @@
 <a href="https://github.com/ADATYA/Resume/raw/main/Bikrom_Adatya_Roy_Resume.pdf">
   <img src="https://img.shields.io/badge/⬇️%20Download-Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=ADATYA" alt="ADATYA" />
+
 </div>
 
 ---
