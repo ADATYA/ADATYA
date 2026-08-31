@@ -153,11 +153,7 @@ I believe the best way to learn is by building real-world applications, contribu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🛠️ Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
 
 ## 📊 GitHub Analytics
 
@@ -173,11 +169,11 @@ I believe the best way to learn is by building real-world applications, contribu
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADATYA&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADATYA&theme=tokyo-night&hide_border=true" />
 
 </div>
 
----
+</div>
 
 ## 🌍 Connect With Me
 
