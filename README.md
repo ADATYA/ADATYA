@@ -164,17 +164,6 @@ I believe the best way to learn is by building real-world applications, contribu
 </div>
 
 ---
-
-## 📈 GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADATYA&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-</div>
-
 ## 🌍 Connect With Me
 
 <div align="center">
