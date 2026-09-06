@@ -163,6 +163,8 @@ I believe the best way to learn is by building real-world applications, contribu
 
 </div>
 
+[![adatya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ADATYA)](https://github.com/ADATYA)
+
 ---
 ## 🌍 Connect With Me
 
