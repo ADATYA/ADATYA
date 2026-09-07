@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#334155&height=250&section=header&text=Bikrom%20Adatya%20Roy&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#4C1D95&height=250&section=header&text=Bikrom%20Adatya%20Roy&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <h1 align="center">
   👋👋 Hello Masses  I'm <strong><code><em>Bikrom Adatya Roy</code></strong></em>
