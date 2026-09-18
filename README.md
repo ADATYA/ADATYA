@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:0B3B78,100:1557A6&height=260&section=header&text=Bikrom%20Adatya%20Roy&fontSize=68&fontColor=E9D5FF&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <h1 align="center">
-  👋👋 Hello Beautiful Peoples I'm <strong><code><em>Bikrom Adatya Roy</code></strong></em>
+👋 Hello Beautiful Peoples I'm <strong><code><em>Bikrom Adatya Roy</code></strong></em>
 </h1>
 
 <h3 align="center">
