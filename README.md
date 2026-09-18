@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#4C1D95&height=250&section=header&text=Bikrom%20Adatya%20Roy&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:0B3B78,100:1557A6&height=260&section=header&text=Bikrom%20Adatya%20Roy&fontSize=68&fontColor=E9D5FF&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <h1 align="center">
   👋👋 Hello Beautiful Peoples I'm <strong><code><em>Bikrom Adatya Roy</code></strong></em>
@@ -239,156 +239,6 @@ From learning the fundamentals of Computer Science to building modern web applic
 
 <br>
 
-<table>
-
-<tr>
-
-<td align="center" width="50%">
-
-<a href="#">
-
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e9028517-877d-448e-a12f-8945b6abebe1" width="100%" alt="Certificates"/>
-
-</a>
-
-<h3>🏆 Professional Certifications</h3>
-
-<p align="center">
-Full Stack Web Engineering • Docker • Git • React • JavaScript • AWS
-</p>
-<!-- Add google docs link for showcase the certifiction images -->
-<a href="#"> 
-
-<img src="https://img.shields.io/badge/View_Certificates-7C3AED?style=for-the-badge&logo=google-drive&logoColor=white"/>
-
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-<a href="#">
-
-<img width="496" height="280" alt="image" src="https://github.com/user-attachments/assets/b5080e40-27fc-4fdf-b33f-7ca62a257397" width="100%" alt="Research"/>
-
-</a>
-
-<h3>📜 Research & Publications</h3>
-
-<p align="center">
-Research Papers • Technical Reports • Academic Writing
-</p>
-
-<a href="#">
-
-<img src="https://img.shields.io/badge/Read_Research-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<a href="#">
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9ee116d7-289f-4bf4-9cef-0ddffddfb399" />
-
-</a>
-
-<h3>💻 Featured Projects</h3>
-
-<p align="center">
-MERN • Next.js • REST API • Cloud • Docker
-</p>
-
-<a href="#">
-
-<img src="https://img.shields.io/badge/View_Projects-E11D48?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="#">
-
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/da443f16-ef7e-4ebd-9517-1d53c2d63ca0" />
-
-</a>
-
-<h3>🎤 Conferences & Workshops</h3>
-
-<p align="center">
-Developer Meetups • Workshops • Tech Talks
-</p>
-
-<a href="#">
-
-
-<img src="https://img.shields.io/badge/View_Gallery-F59E0B?style=for-the-badge&logo=googlephotos&logoColor=white"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<a href="#">
-
-<img width="728" height="420" alt="image" src="https://github.com/user-attachments/assets/3ac51f1d-401a-45d2-aa9b-80c50ec0cdbb" />
-
-
-</a>
-
-<h3>🥇 Awards & Achievements</h3>
-
-<p align="center">
-Competitions • Recognition • Leadership
-</p>
-
-<a href="#">
-
-<img src="https://img.shields.io/badge/View_Awards-14B8A6?style=for-the-badge&logo=trophy&logoColor=white"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="#">
-
-<img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/db6e031b-bf89-4b5d-80e9-31c01b5c849a" />
-
-</a>
-
-<h3>💼 Internship Experience</h3>
-
-<p align="center">
-Industrial Projects • Professional Experience
-</p>
-
-<a href="#">
-
-<img src="https://img.shields.io/badge/View_Experience-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
 <br>
 
 <p align="center">
@@ -409,8 +259,7 @@ Industrial Projects • Professional Experience
 ### 💡 *"Building scalable web applications one commit at a time."*
 
 ⭐ If you like my work, feel free to star my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=footer"/>
+---
 
 ---
 
@@ -422,8 +271,8 @@ Industrial Projects • Professional Experience
 | ✅ Completed | CSS3 | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/CSS | Flexbox, Grid, Responsive Design |
 | ✅ Completed | JavaScript (ES6+) | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/JavaScript | Modern JavaScript |
 | ✅ Completed | Git & GitHub | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://git-scm.com/doc | Version Control |
-| 🟡 Learning | React | ⭐⭐⭐⭐⭐ | Current | 🌐 https://react.dev | Components, Hooks |
-| 🟡 Learning | TypeScript | ⭐⭐⭐⭐ | Current | 🌐 https://www.typescriptlang.org/docs | Type Safety |
+| ✅ Completed | React | ⭐⭐⭐⭐⭐ | Current | 🌐 https://react.dev | Components, Hooks |
+| ✅ Completed | TypeScript | ⭐⭐⭐⭐ | Current | 🌐 https://www.typescriptlang.org/docs | Type Safety |
 | 🟡 Learning | Next.js | ⭐⭐⭐⭐⭐ | Current | 🌐 https://nextjs.org/docs | SSR & App Router |
 | 🟡 Learning | Node.js | ⭐⭐⭐⭐⭐ | Current | 🌐 https://nodejs.org/docs | Backend Development |
 | 🟡 Learning | Express.js | ⭐⭐⭐⭐ | Current | 🌐 https://expressjs.com | REST API |
@@ -435,6 +284,7 @@ Industrial Projects • Professional Experience
 | 🔜 Planned | CI/CD | ⭐⭐⭐⭐ | Q4 2026 | 🌐 https://docs.github.com/actions | GitHub Actions |
 | 🔜 Planned | Microservices | ⭐⭐⭐⭐ | 2027 | 🌐 https://microservices.io | System Design |
 | 🔜 Planned | Terraform | ⭐⭐⭐ | 2027 | 🌐 https://developer.hashicorp.com/terraform/docs | Infrastructure as Code |
----
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:0B3B78,100:1557A6&height=180&section=footer&text=The%20end%20is%20just%20the%20beginning%20of%20a%20new%20chapter.&fontSize=24&fontColor=E9D5FF&animation=fadeIn&fontAlignY=55" width="100%" />
 
 </div>
