@@ -55,14 +55,50 @@
 ---
 
 ## 👨‍💻 About Myself
+``` JavaScript
+/**
+ * @developer Bikrom Adatya Roy (ADATYA)
+ * @role Focused Full Stack Web Developer
+ */
 
-I am currently pursuing an **M.Sc. in Web Engineering** at **Chemnitz University of Technology, Germany**, with a strong academic foundation in **Computer Science** from **Daffodil International University**.
+class Developer {
+    constructor() {
+        this.name = "Bikrom Adatya Roy";
+        this.location = "📍 Dhaka, Bangladesh";
+        this.education = {
+            masters: "M.Sc. Web Engineering @ TU Chemnitz 🇩🇪",
+            bachelors: "B.Sc. Computer Science @ Daffodil International University 🇧🇩"
+        };
+        this.currentStack = {
+            languages: ["HTML5", "CSS3", "JavaScript (ES6+)"],
+            frameworks: ["React.js", "Next.js"],
+            focus: "Building dynamic, user-friendly web applications"
+        };
+    }
 
-I enjoy designing and developing **modern, scalable, and user-friendly web applications** using contemporary web technologies. My interests span **Full Stack Development, Cloud Computing, Software Engineering, System Design, and DevOps**.
+    getCurrentlyLearning() {
+        return [
+            "Advanced Next.js Architecture",
+            "Full Stack Backend Integrations",
+            "Planning to explore Cloud & DevOps in the future"
+        ];
+    }
 
-Currently, I am expanding my knowledge of modern web architectures, cloud-native development, containerization, CI/CD pipelines, and scalable software systems to prepare for **Full Stack**, **Cloud**, and **DevOps Engineering** roles.
+    async executeMission() {
+        try {
+            await this.build("Real-world projects using React & Next.js");
+            await this.levelUp("Full Stack capabilities step-by-step");
+            
+            return "Pushing code & building projects every day! 🚀";
+        } catch (bugs) {
+            console.log("Squashing bugs & keeping the learning curve steep! 💻");
+        }
+    }
+}
 
-I believe the best way to learn is by building real-world applications, contributing to open-source projects, and continuously improving my engineering skills.
+const adatya = new Developer();
+adatya.executeMission();
+```
 
 <img width="1983" height="793" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/14b036ab-e81c-44d1-a07c-804822021b7b" />
 
