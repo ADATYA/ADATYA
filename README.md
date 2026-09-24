@@ -157,9 +157,21 @@ I believe the best way to learn is by building real-world applications, contribu
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ADATYA&theme=tokyonight&hide_border=true"/>
+
+</div> -->
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.shion.dev/api?username=ADATYA&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1B2A&title_color=52B788&text_color=E0FBFC&icon_color=95D5B2" />
+
+<br/>
+<img height="220" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ADATYA&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1B2A&title_color=52B788&text_color=E0FBFC" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ADATYA&hide_border=true&background=0D1B2A&ring=52B788&fire=95D5B2&currStreakLabel=52B788&sideLabels=E0FBFC&currStreakNum=E0FBFC&sideNums=E0FBFC&dates=7BA88C" />
 
 </div>
 
