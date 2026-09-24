@@ -153,31 +153,14 @@ adatya.executeMission();
 
 ## 🚀 Project Features Collection Card
 
-🛒 E-Commerce Platform
-📝 Description
-🛠 Tech Stack
-⭐ GitHub
-🌍 Live Demo 
+## 🚀 Featured Projects
 
-
-💬 Chat Application
-📝 Description
-🛠 Tech Stack
-⭐ GitHub
-🌍 Live Demo
-
-📋 Task Manager
-📝 Description
-🛠 Tech Stack
-⭐ GitHub
-🌍 Live Demo
-
-🎓 LMS
-📝 Description
-🛠 Tech Stack
-⭐ GitHub
-🌍 Live Demo
-
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| 🛒 **E-Commerce Platform** | Full-stack e-commerce web application with cart, user authentication & payment flow. | `React` `Next.js` `Tailwind` `Node.js` | [![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](#) <br/> [![Live Demo](https://img.shields.io/badge/Live%20Demo-52B788?style=for-the-badge&logo=googlechrome&logoColor=white)](#) |
+| 💬 **Chat Application** | Real-time chat application with instant messaging and active user status. | `React` `Node.js` `Socket.io` `MongoDB` | [![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](#) <br/> [![Live Demo](https://img.shields.io/badge/Live%20Demo-52B788?style=for-the-badge&logo=googlechrome&logoColor=white)](#) |
+| 📋 **Task Manager** | Productivity tool designed to organize, assign, and track daily tasks efficiently. | `Next.js` `TypeScript` `Tailwind` `Prisma` | [![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](#) <br/> [![Live Demo](https://img.shields.io/badge/Live%20Demo-52B788?style=for-the-badge&logo=googlechrome&logoColor=white)](#) |
+| 🎓 **LMS Platform** | Learning Management System for managing courses, student progress, and assignments. | `React` `Next.js` `Express` `PostgreSQL` | [![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](#) <br/> [![Live Demo](https://img.shields.io/badge/Live%20Demo-52B788?style=for-the-badge&logo=googlechrome&logoColor=white)](#) |
 
 ---
 
@@ -302,35 +285,29 @@ From learning the fundamentals of Computer Science to building modern web applic
 ---
 <div align="center">
 
-### 💡 *"Building scalable web applications one commit at a time."*
+## ❖ &nbsp;Open to Collaboration
 
-⭐ If you like my work, feel free to star my repositories!
----
+<div align="center">
 
----
+**I am actively seeking Full-Stack or Frontend Developer roles
+and open to contributing to impactful projects with driven teams.**  
 
-## 🚀 Engineering Learning Roadmap
+<br/>
 
-| 🚦 Status | 💻 Technology | 🎯 Priority | 📅 Timeline | 📚 Official Docs | 📝 Notes |
-|-----------|---------------|------------|------------|-----------------|----------|
-| ✅ Completed | HTML5 | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/HTML | Semantic HTML & Accessibility |
-| ✅ Completed | CSS3 | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/CSS | Flexbox, Grid, Responsive Design |
-| ✅ Completed | JavaScript (ES6+) | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://developer.mozilla.org/docs/Web/JavaScript | Modern JavaScript |
-| ✅ Completed | Git & GitHub | ⭐⭐⭐⭐⭐ | Completed | 🌐 https://git-scm.com/doc | Version Control |
-| ✅ Completed | React | ⭐⭐⭐⭐⭐ | Current | 🌐 https://react.dev | Components, Hooks |
-| ✅ Completed | TypeScript | ⭐⭐⭐⭐ | Current | 🌐 https://www.typescriptlang.org/docs | Type Safety |
-| 🟡 Learning | Next.js | ⭐⭐⭐⭐⭐ | Current | 🌐 https://nextjs.org/docs | SSR & App Router |
-| 🟡 Learning | Node.js | ⭐⭐⭐⭐⭐ | Current | 🌐 https://nodejs.org/docs | Backend Development |
-| 🟡 Learning | Express.js | ⭐⭐⭐⭐ | Current | 🌐 https://expressjs.com | REST API |
-| 🟡 Learning | MongoDB | ⭐⭐⭐⭐ | Current | 🌐 https://www.mongodb.com/docs | NoSQL Database |
-| 🟡 Learning | REST APIs | ⭐⭐⭐⭐⭐ | Current | 🌐 https://developer.mozilla.org/docs/Web/API/Fetch_API | API Design |
-| 🔜 Planned | Docker | ⭐⭐⭐⭐⭐ | Q3 2026 | 🌐 https://docs.docker.com | Containerization |
-| 🔜 Planned | Kubernetes | ⭐⭐⭐⭐ | Q4 2026 | 🌐 https://kubernetes.io/docs | Orchestration |
-| 🔜 Planned | AWS | ⭐⭐⭐⭐⭐ | Q4 2026 | 🌐 https://docs.aws.amazon.com | Cloud Computing |
-| 🔜 Planned | CI/CD | ⭐⭐⭐⭐ | Q4 2026 | 🌐 https://docs.github.com/actions | GitHub Actions |
-| 🔜 Planned | Microservices | ⭐⭐⭐⭐ | 2027 | 🌐 https://microservices.io | System Design |
-| 🔜 Planned | Terraform | ⭐⭐⭐ | 2027 | 🌐 https://developer.hashicorp.com/terraform/docs | Infrastructure as Code |
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=9D8FFF)](https://www.linkedin.com/in/bikromroy/)&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF)](https://mail.google.com/mail/?view=cm&fs=1&to=bikromroy0711@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=9D8FFF)](#)
 
+<br/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,50:0B3B78,100:1557A6&height=180&section=footer&text=The%20end%20is%20just%20the%20beginning%20of%20a%20new%20chapter.&fontSize=24&fontColor=E9D5FF&animation=fadeIn&fontAlignY=55" width="100%" />
 
 </div>
